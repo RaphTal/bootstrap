@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is to test boostrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphTal/bootstrap.git"
+  },
+  "author": "Raphael de Talhouet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphTal/bootstrap/issues"
+  },
+  "homepage": "https://github.com/RaphTal/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
